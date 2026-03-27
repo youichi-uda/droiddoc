@@ -1,0 +1,2 @@
+-keep class com.droidoffice.doc.** { *; }
+-keep class com.droidoffice.core.** { *; }

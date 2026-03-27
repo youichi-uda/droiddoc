@@ -5,7 +5,8 @@ build/
 local.properties
 *.log
 library/build/
+sample-app/build/
 
-# Internal docs
-CLAUDE.md
+# Internal docs (not for public repo)
 android_word_library_spec.md
+CLAUDE.md

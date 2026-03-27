@@ -1,0 +1,6 @@
+jdk:
+  - openjdk11
+android:
+  sdk_version: "8.14"
+install:
+  - ./gradlew :library:assembleRelease
